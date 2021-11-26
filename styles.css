@@ -40,9 +40,12 @@ padding: 20px 0;
 
 }
 
-.nav-brand{
-
+.nav-brand {
     width: 50px;
+}
+
+.brand-center {
+    width: 250px;
 }
 
 /*nav left*/
@@ -166,4 +169,9 @@ margin: 20px 0 }
 
 .links a i {
     font-size: 3rem;
+}
+
+.imagenes {
+    width: 200px; 
+    height: 100px;
 }
